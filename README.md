@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Youssef Sakini</h1>
+<h1 align="center">Hi 👋, I'm Youssef SAKINI</h1>
 <h3 align="center">A Passionate Frontend Developer From Morocco</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=youssefsakini&label=Profile%20views&color=0e75b6&style=flat" alt="youssefsakini" /> </p>
